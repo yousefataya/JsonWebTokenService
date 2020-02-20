@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+      <Folder Include="Finance\" />
+      <Folder Include="HRMS\lookup\" />
+      <Folder Include="Location\" />
+      <Folder Include="Marketing\lookup\" />
+      <Folder Include="ReportLog\" />
+      <Folder Include="PersonTemplate\" />
+      <Folder Include="RGU\ML\" />
+      <Folder Include="RGU\Integration\" />
+    </ItemGroup>
+    <ItemGroup>
+      <PackageReference Include="DotNetCore.EntityFrameworkCore" Version="10.10.0" />
+      <PackageReference Include="Microsoft.Extensions.ObjectPool" Version="3.1.1" />
+    </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\Model\HRMS.Model.csproj" />
+    </ItemGroup>
+</Project>

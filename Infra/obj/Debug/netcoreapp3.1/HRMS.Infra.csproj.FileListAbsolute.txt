@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\RGUMLRTL\source\Infra\bin\Debug\netcoreapp3.1\HRMS.Infra.deps.json
+C:\Users\Admin\Desktop\RGUMLRTL\source\Infra\bin\Debug\netcoreapp3.1\HRMS.Infra.runtimeconfig.json
+C:\Users\Admin\Desktop\RGUMLRTL\source\Infra\bin\Debug\netcoreapp3.1\HRMS.Infra.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\RGUMLRTL\source\Infra\bin\Debug\netcoreapp3.1\HRMS.Infra.dll
+C:\Users\Admin\Desktop\RGUMLRTL\source\Infra\bin\Debug\netcoreapp3.1\HRMS.Infra.pdb
+C:\Users\Admin\Desktop\RGUMLRTL\source\Infra\bin\Debug\netcoreapp3.1\HRMS.CrossCutting.dll
+C:\Users\Admin\Desktop\RGUMLRTL\source\Infra\bin\Debug\netcoreapp3.1\HRMS.Model.dll
+C:\Users\Admin\Desktop\RGUMLRTL\source\Infra\bin\Debug\netcoreapp3.1\HRMS.Model.pdb
+C:\Users\Admin\Desktop\RGUMLRTL\source\Infra\bin\Debug\netcoreapp3.1\HRMS.CrossCutting.pdb
+C:\Users\Admin\Desktop\RGUMLRTL\source\Infra\obj\Debug\netcoreapp3.1\HRMS.Infra.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\RGUMLRTL\source\Infra\obj\Debug\netcoreapp3.1\HRMS.Infra.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\RGUMLRTL\source\Infra\obj\Debug\netcoreapp3.1\HRMS.Infra.AssemblyInfo.cs
+C:\Users\Admin\Desktop\RGUMLRTL\source\Infra\obj\Debug\netcoreapp3.1\HRMS.Infra.csproj.CopyComplete
+C:\Users\Admin\Desktop\RGUMLRTL\source\Infra\obj\Debug\netcoreapp3.1\HRMS.Infra.dll
+C:\Users\Admin\Desktop\RGUMLRTL\source\Infra\obj\Debug\netcoreapp3.1\HRMS.Infra.pdb

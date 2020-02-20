@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\RGUMLRTL\source\CrossCutting\bin\Debug\netcoreapp3.1\HRMS.CrossCutting.deps.json
+C:\Users\Admin\Desktop\RGUMLRTL\source\CrossCutting\bin\Debug\netcoreapp3.1\HRMS.CrossCutting.runtimeconfig.json
+C:\Users\Admin\Desktop\RGUMLRTL\source\CrossCutting\bin\Debug\netcoreapp3.1\HRMS.CrossCutting.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\RGUMLRTL\source\CrossCutting\bin\Debug\netcoreapp3.1\HRMS.CrossCutting.dll
+C:\Users\Admin\Desktop\RGUMLRTL\source\CrossCutting\bin\Debug\netcoreapp3.1\HRMS.CrossCutting.pdb
+C:\Users\Admin\Desktop\RGUMLRTL\source\CrossCutting\obj\Debug\netcoreapp3.1\HRMS.CrossCutting.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\RGUMLRTL\source\CrossCutting\obj\Debug\netcoreapp3.1\HRMS.CrossCutting.Resources.Texts.resources
+C:\Users\Admin\Desktop\RGUMLRTL\source\CrossCutting\obj\Debug\netcoreapp3.1\HRMS.CrossCutting.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\RGUMLRTL\source\CrossCutting\obj\Debug\netcoreapp3.1\HRMS.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\RGUMLRTL\source\CrossCutting\obj\Debug\netcoreapp3.1\HRMS.CrossCutting.AssemblyInfo.cs
+C:\Users\Admin\Desktop\RGUMLRTL\source\CrossCutting\obj\Debug\netcoreapp3.1\HRMS.CrossCutting.dll
+C:\Users\Admin\Desktop\RGUMLRTL\source\CrossCutting\obj\Debug\netcoreapp3.1\HRMS.CrossCutting.pdb

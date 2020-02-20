@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\RGUMLRTL\source\Domain\bin\Debug\netcoreapp3.1\HRMS.Domain.deps.json
+C:\Users\Admin\Desktop\RGUMLRTL\source\Domain\bin\Debug\netcoreapp3.1\HRMS.Domain.runtimeconfig.json
+C:\Users\Admin\Desktop\RGUMLRTL\source\Domain\bin\Debug\netcoreapp3.1\HRMS.Domain.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\RGUMLRTL\source\Domain\bin\Debug\netcoreapp3.1\HRMS.Domain.dll
+C:\Users\Admin\Desktop\RGUMLRTL\source\Domain\bin\Debug\netcoreapp3.1\HRMS.Domain.pdb
+C:\Users\Admin\Desktop\RGUMLRTL\source\Domain\bin\Debug\netcoreapp3.1\HRMS.CrossCutting.dll
+C:\Users\Admin\Desktop\RGUMLRTL\source\Domain\bin\Debug\netcoreapp3.1\HRMS.Model.dll
+C:\Users\Admin\Desktop\RGUMLRTL\source\Domain\bin\Debug\netcoreapp3.1\HRMS.Model.pdb
+C:\Users\Admin\Desktop\RGUMLRTL\source\Domain\bin\Debug\netcoreapp3.1\HRMS.CrossCutting.pdb
+C:\Users\Admin\Desktop\RGUMLRTL\source\Domain\obj\Debug\netcoreapp3.1\HRMS.Domain.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\RGUMLRTL\source\Domain\obj\Debug\netcoreapp3.1\HRMS.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\RGUMLRTL\source\Domain\obj\Debug\netcoreapp3.1\HRMS.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\RGUMLRTL\source\Domain\obj\Debug\netcoreapp3.1\HRMS.Domain.csproj.CopyComplete
+C:\Users\Admin\Desktop\RGUMLRTL\source\Domain\obj\Debug\netcoreapp3.1\HRMS.Domain.dll
+C:\Users\Admin\Desktop\RGUMLRTL\source\Domain\obj\Debug\netcoreapp3.1\HRMS.Domain.pdb
